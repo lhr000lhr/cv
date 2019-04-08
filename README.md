@@ -28,12 +28,12 @@ Alibaba Group has more than 66,421 full-time employees, like FLAG Companies, onl
 #### _Senior Front-End Engineer / Aug. 2017 - Jun. 2018_
 
 * Led a team of four staff at work for Open-Source Version of alibaba/ice project, designed solutions, developed, managed progress and did marketing, from 0 to 5,000 Stars on GitHub, got 3,000 active developers and 400+ DAU before I quit.
-* Led a temporary team of five staff at work for Block Content Editor project and used by 2017 Double 11. The 2017 Double 11's GMV hits USD 25.3B and the total number of parcel reached 812 million.
+* Led a temporary team of five staff at work for Block Content Editor project and used by 2017 Double 11. The 2017 Double 11's GMV hits USD 25.3 Billion and the total number of parcel reached 812 million.
 * Strong work abilities, handled multi-tasks and elastic workload, highlighted risks and solved it.
 
 #### _Front-End Engineer / Mar. 2015 - Jul. 2017_
 
-* Responsible for requirements of Taobao Cart System (Mar. 2015 - Dec. 2015, over 10 million PV per day) / Oversea Business (Dec. 2015 - Apr. 2016) / Content Business (Apr. 2016 - Jun. 2018, content detail pages have over 150 million PV every day).
+* Handled requirements in Taobao Cart System (Mar. 2015 - Dec. 2015, over 10 million PV per day) / Oversea Business (Dec. 2015 - Apr. 2016) / Content Business (Apr. 2016 - Jun. 2018, content detail pages have over 150 million PV every day).
 * Joined taobaofed/react-web and alibaba/ice project as core developer responsible for the React Components design and development (Apr. 2016 - Jun. 2017). Designed and developed 15+ various components and solutions.
 * Designed and developed React Dynamic Form (second version) and React Rich Text Editor solutions used in Content Business, 70K+ content creators publish 350K+ posts through this every day.
 
