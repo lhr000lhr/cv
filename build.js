@@ -12,6 +12,15 @@ const tmpl = `
     <meta charset="utf-8">
     <title>Harry (Jiangshui) Yu - Web Developer</title>
     <link rel="stylesheet" href="./styles.css" />
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-57557739-4"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-57557739-4');
+    </script>
   </head>
   <body>
     ${content}

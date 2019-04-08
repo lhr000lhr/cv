@@ -34,7 +34,7 @@ Alibaba Group has more than 66,421 full-time employees, like FLAG Companies, onl
 #### _Front-End Engineer / Mar. 2015 - Jul. 2017_
 
 * Handled requirements in Taobao Cart System (Mar. 2015 - Dec. 2015, over 10 million PV per day) / Oversea Business (Dec. 2015 - Apr. 2016) / Content Business (Apr. 2016 - Jun. 2018, content detail pages have over 150 million PV every day).
-* Joined taobaofed/react-web and alibaba/ice project as core developer responsible for the React Components design and development (Apr. 2016 - Jun. 2017). Designed and developed 15+ various components and solutions.
+* Joined _taobaofed/react-web_ and _alibaba/ice_ project as a core developer responsible for the React Components design and development (Apr. 2016 - Jun. 2017). Designed and developed 15+ various components and solutions.
 * Designed and developed React Dynamic Form (second version) and React Rich Text Editor solutions used in Content Business, 70K+ content creators publish 350K+ posts through this every day.
 
 ### DeepDevelop (http://deepdevelop.com/) and WordPress JAM
