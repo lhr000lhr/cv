@@ -10,7 +10,7 @@ const tmpl = `
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Jiangshui "Harry" Yu - Web Developer</title>
+    <title>Harry (Jiangshui) Yu - Web Developer</title>
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
