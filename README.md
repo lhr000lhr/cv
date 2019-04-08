@@ -1,6 +1,6 @@
-# Jiangshui “Harry” Yu - Web Developer
+# Harry (Jiangshui) Yu - Web Developer
 
-* Email: hi@harryyu.me
+* _Email_: hi@harryyu.me
 
 ## Summaries
 
